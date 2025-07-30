@@ -1,4 +1,7 @@
-## Hi there 👋
+## 
+![coringa](https://i.pinimg.com/originals/06/07/64/060764dd2235ca4598e7ac3860fc7ece.gif "coringa rindo")
+
+
 
 <!--
 **silvaahzo/silvaahzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
