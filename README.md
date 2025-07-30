@@ -1,5 +1,14 @@
 ## 
 ![coringa](https://i.pinimg.com/originals/06/07/64/060764dd2235ca4598e7ac3860fc7ece.gif "coringa rindo")
+Meu nome é Rafael da Silva Pereira
+\
+Moro em Santana de Paraniba
+\
+Estou Cursando o 1º Ano do Ensino Médio Na Escola Colégio Municipal Tenente General Gaspar de Godoi Colaço
+\
+Estou Estudando Python
+\
+Meu instagram para Contato: https://www.instagram.com/silvaah_zo/
 
 
 
